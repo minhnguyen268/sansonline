@@ -6,6 +6,6 @@ RUN echo "password" > /keyfile \
 CMD ["--bind_ip_all", "--keyFile", "/keyfile", "--replSet", "rs0", "--port", "27017"]
 
 
-# mongo -u admin -p 42s0K7CZ88hhnBG6
+# mongo -u admin -p sSkO2g4xk8vwKmiF
 # rs.secondaryOk()
 # rs.initiate()
